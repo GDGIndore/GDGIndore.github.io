@@ -477,8 +477,6 @@ hr .custom-hr{
     transform: translate(-50%, 0%);
 }
 .speaker-img{
-    width: auto;
-    height: 200px;
     position: relative;
     left: 50%;
     margin-top: 20px;
