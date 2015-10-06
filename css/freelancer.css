@@ -482,3 +482,15 @@ hr .custom-hr{
     margin-top: 20px;
     transform: translate(-50%, 0%);
 }
+.portfolio-text{
+    color: #00bcd4;
+    margin-top: 10px;
+    font-weight: 300;
+    font-size: 1em;
+
+}
+.pos-edit{
+    margin-left: 20%;
+    margin-right: auto;
+
+}
